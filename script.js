@@ -16,7 +16,7 @@ class Forma {
         </div>
         
         `
-  }
+    }
 }
 
 class Cuadrado extends Forma {
@@ -25,4 +25,4 @@ class Cuadrado extends Forma {
     }
 }
 
-let newCuadrado =  new Cuadrado (200,"red");
+let figuraCuadrado =  new Cuadrado (200,"red");
